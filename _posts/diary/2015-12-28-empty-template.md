@@ -4,9 +4,9 @@ comments: true
 categories: Molecular Techniques
 ---
 
-## New Technology: HCR
+# New Technology: HCR
 
-Third-generation in situ hybridization chain reaction: multiplexed, quantitative, sensitive, versatile, robust 
+## Third-generation in situ hybridization chain reaction: multiplexed, quantitative, sensitive, versatile, robust 
 
 *Harry M. T. Choi1 , Maayan Schwarzkopf1 , Mark E. Fornace2 , Aneesh Acharya1 , Georgios Artavanis1 , Johannes Stegmaier3,4,5, Alexandre Cunha3,6 and Niles A. Pierce1,7,8,*
 | Development (2018) 145, dev165753. doi:10.1242/dev.165753*
