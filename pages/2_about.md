@@ -8,19 +8,40 @@ permalink: /about/
 * content
 {:toc}
 
-## About the site
-This is a personal website of LiXizhi, created with github and jekyll. 
-Create your own website is as easy as clone or fork a [template](https://github.com/LiXizhi/lixizhi.github.io) on github, and [commit](http://jekyllrb.com/docs/posts/) to `_posts` folder. 
+## About the website
 
-### Admin tools
-* site [configuration file](https://github.com/LiXizhi/lixizhi.github.io/blob/master/_config.yml)
-* Jekyll + [lixizhi.duoshuo.com](http://lixizhi.duoshuo.com/admin/)
-* Jekyll + [lixizhi.disqus.com](http://lixizhi.disqus.com/admin/)
-* Jekyll theme templates: [jekyllthemes.org](http://jekyllthemes.org)
-   * Theme used: [cool-concise](http://jekyllthemes.org/themes/cool-concise-high-end/)
-* Jekyll official site: [jekyllrb.com](http://jekyllrb.com)
-* YAML for human readable markdown: [yaml.org](http://www.yaml.org/)
-* markdown reference: [kramdown](http://kramdown.gettalong.org/quickref.html)
+Designing an open-collaborative website in the field of molecular biology
+
+## WELCOME!
+Thank you for visiting the " MBiO: Designing an open-collaborative website. 
+
+### What are we doing?
+
+We are trying to build an open educational resource on molecular biology and allow to share, connect and empower people to study in this field. We aim to evaluate the papers and make them available for everyone. Choosing a weekly topic and summarizing it that everyone can understand is the main idea.
+It is very important to have a regular flow of information and to follow the literature in this field but;
+
+* you may not be able to find free time to sit up or mental space to read and pay attention to a paper.
+
+* you may prefer to get the main idea instead of bulk of information
+ 
+* you may be interested in molecular biology and want to follow recently published papers
+
+In this case, connecting community to science will make life easier and this will be the outcome of our project.
+
+### What concrete achievements do we want to accomplish ? 
+
+* Designing a website which provides a weekly summary of a scientific article
+* Making a section in this website to share comments about the paper to improve new projects and collaborations
+*	Making a section about the most recent conferences or workshops which are related with the summarized paper 
+*	Making it open-collaborative so anybody can come in and commit
+
+### Let's support openness in life science together!
+This website will be an open platform for anyone who is willing to contribute. You can comment, share ideas and discuss so it will help to develop collaborations among people who are interested in scientific field. 
+
+#### Thank you!
+Thank you so much for visiting the project and we do hope that you'll join us on this our journey to allow to share, connect and empower people to study in this field !!
+
+**Details coming soon!!**
 
 ### About comments
 Add a variable called `comments` to the [YAML front matter](http://jekyllrb.com/docs/frontmatter/) and set its value to true. A sample might look like:
@@ -44,11 +65,7 @@ end
 
 ## About me
 
-My primary research interest is in artificial intelligence, programming and education. See my project page for details.
+My primary research interest is in developmental biology and molecular biology. See my project page for details.
 
 
-### 2005 Old Website 
-Here is my old personal website when I was in University. It was mostly on my projects and thoughts before 2005.
-
-* [Xizhi's old website before 2005](/oldsite2005/index.htm). 
 
