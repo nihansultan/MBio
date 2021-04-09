@@ -2,7 +2,7 @@
 layout: frontpage
 ---
 
-### WELCOME TO MOLECULAR BIOLOGY OPEN COLLABORATIVE WEBSITE 
+## WELCOME
 #### _Where your molecular biology papers are summarized!_
 
 
