@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-categories: Molecular Techniques
+categories: Molecular-Techniques
 ---
 
 # New Technology: HCR
