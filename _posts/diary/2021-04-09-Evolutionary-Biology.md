@@ -6,7 +6,7 @@ categories: Developmental-Biology
 
 **Ultrastructure of the Bacteriocytes in the Midgut of the Carpenter ant *Camponotus rufipes*: Endosymbiont Control by Autophagy**
 
-Wagner G. Gonçalves1, Kenner M. Fernandes1, Ana Paula A. Silva2, Danilo G. Gonçalves3, Muhammad Fiaz2
+Wagner G. Gonçalves 1, Kenner M. Fernandes 1, Ana Paula A. Silva 2, Danilo G. Gonçalves 3, Muhammad Fiaz 2
 and José Eduardo Serrão1*
 
 It is known that the carpenter ant Camponotus rufipes has intracellular bacteria in bacteriocytes distributed in the midgut epithelium, each of which has varying quantities of endosymbionts depending on developmental stages. However, there is no comprehensive information on the midgut cells in adult workers. The aim of this study was to look at the morphology and cellular events that control the abundance of endosymbionts in C. rufipes workers' midgut cells. There are differnet l-kind of cells such as digestive cells, bacteriocytes, and cells with intermediate morphology make up the midgut epithelium. Autophagosomes and autolysosomes abound in the digestive and intermediate cells, all of which contain bacteria debris in the lümen which suggested that that the autophagy pathway regulates the endosymbiont level in C. rufipes midgut cells. 
