@@ -4,7 +4,7 @@ comments: true
 categories: Developmental Biology
 ---
 
-**Ultrastructure of the Bacteriocytes in the Midgut of the Carpenter ant Camponotus rufipes: Endosymbiont Control by Autophagy**
+**Ultrastructure of the Bacteriocytes in the Midgut of the Carpenter ant *Camponotus rufipes*: Endosymbiont Control by Autophagy**
 
 Wagner G. Gonçalves1, Kenner M. Fernandes1, Ana Paula A. Silva2, Danilo G. Gonçalves3, Muhammad Fiaz2
 and José Eduardo Serrão1*
@@ -22,3 +22,4 @@ For these purposes; adult females of C. rufipes ants were collected and dissecte
 8.	Both the digestive and intermediate cells had an apical cytoplasm with electron-lucent vesicles, lysosomes, autophagosome, and residual bodies rich in membranous content. In both these cell types, the apical cytoplasm had abundant bacteria inside vesicles closely associated with autophagosomes. These vesicles with bacteria were found fused with autophagosomes. To verify if the apical vesicles were autophagosomes, immunofluorescence detection to LC3A/B proteins revealed that they were undergoing autophagy.
 In conclusion, the analysis indicates that autophagy controls the amount of endosymbionts in C. rufipes midgut cells. As a result, these cells transform from bacteriocytes that store endosymbionts to digestive cells. Some gaps in the evidence of endosymbionts in various midgut cell types, as well as bacteriocyte decrease during ant growth, can be better understood using this method. With their proposed model, some gaps in the evidence of endosymbionts in different midgut cell types and bacteriocyte decrease during ant growth can be better understood, potentially contributing to a better understanding of symbiotic relationships in carpenter ants. 
 
+[Here](https://www.cambridge.org/core/journals/microscopy-and-microanalysis/article/abs/ultrastructure-of-the-bacteriocytes-in-the-midgut-of-the-carpenter-ant-camponotus-rufipes-endosymbiont-control-by-autophagy/BBCEB996202CFD8552F7EC4FA6098F34) is the link of the paper.
