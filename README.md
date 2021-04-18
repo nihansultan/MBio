@@ -30,7 +30,7 @@ This website will be an open platform for anyone who is willing to contribute. Y
 #### Thank you!
 Thank you so much for visiting the project and we do hope that you'll join us on this our journey to allow to share, connect and empower people to study in this field !!
 
-**Details coming soon!!**
+Check our website from [here](https://nihansultan.github.io/MBio_/)
 
 
 
