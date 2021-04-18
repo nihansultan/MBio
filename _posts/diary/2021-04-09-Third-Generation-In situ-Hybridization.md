@@ -9,12 +9,12 @@ categories: Developmental-Biology
 
 *In situ* hybridization based on the hybridization chain reaction (HCR) process has solved multi-decade challenges that hampered imaging of mRNA expression in diverse species, providing a rare combination of multiplexing, quantitation, specificity, resolution, and flexibility. It was complemented these capabilities with third-generation in situ HCR probes and amplifiers that work together to provide automated background suppression throughout the protocol, ensuring that reagents do not produce amplified background even though they bind non-specifically throughout the sample. Automatic background suppression improves accuracy and robustness by balancing the advantages of a higher signal-to-background ratio with the ease of using unoptimized probe sets for new targets and species.
 
-## ***In situ* HCR v3.0 enables three multiplexed quantitative analysis modes:**
+### ***In situ* HCR v3.0 enables three multiplexed quantitative analysis modes:**
 1. qHCR imaging – analog mRNA relative quantitation with subcellular resolution in the anatomical context of whole-mount vertebrate embryos
 2. qHCR flow cytometry – analog mRNA relative quantitation for high-throughput expression profiling of mammalian and bacterial cells
 3. dHCR imaging – digital mRNA absolute quantitation via single-molecule imaging in thick autofluorescent samples
 
-## **How does it work?**
+### **How does it work?**
 
 ![MainFigure](https://user-images.githubusercontent.com/78427322/115143982-cfdc0f00-a052-11eb-9606-2a1dd3fddaaa.png)
 
