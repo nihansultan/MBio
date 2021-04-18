@@ -36,7 +36,7 @@ For these purposes; adult females of *C. rufipes* ants were collected and dissec
 
 In conclusion, the analysis indicates that autophagy controls the amount of endosymbionts in C. rufipes midgut cells. As a result, these cells transform from bacteriocytes that store endosymbionts to digestive cells. Some gaps in the evidence of endosymbionts in various midgut cell types, as well as bacteriocyte decrease during ant growth, can be better understood using this method. With their proposed model, some gaps in the evidence of endosymbionts in different midgut cell types and bacteriocyte decrease during ant growth can be better understood, potentially contributing to a better understanding of symbiotic relationships in carpenter ants. 
 
-[Here](https://www.cambridge.org/core/journals/microscopy-and-microanalysis/article/abs/ultrastructure-of-the-bacteriocytes-in-the-midgut-of-the-carpenter-ant-camponotus-rufipes-endosymbiont-control-by-autophagy/BBCEB996202CFD8552F7EC4FA6098F34) is the link of the paper.
+Check [here](https://www.cambridge.org/core/journals/microscopy-and-microanalysis/article/abs/ultrastructure-of-the-bacteriocytes-in-the-midgut-of-the-carpenter-ant-camponotus-rufipes-endosymbiont-control-by-autophagy/BBCEB996202CFD8552F7EC4FA6098F34) for details of the paper.
 
 
 
