@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-categories: Useful-Links
+categories: Useful Links
 ---
 
 ## The links here may be useful for those working in the wet lab
