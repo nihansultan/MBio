@@ -4,7 +4,7 @@ comments: true
 categories: Developmental-Biology
 ---
 
-**Ultrastructure of the Bacteriocytes in the Midgut of the Carpenter ant *Camponotus rufipes*: Endosymbiont Control by Autophagy**
+# **Ultrastructure of the Bacteriocytes in the Midgut of the Carpenter ant *Camponotus rufipes*: Endosymbiont Control by Autophagy**
 
 
 
