@@ -8,7 +8,7 @@ comments: true
 * content
 {:toc}
 
-## *The links here may be useful for those working in the wet lab.*
+## The links here may be useful for those working in the wet lab
 
 ### Addgene:plasmid library 
 - You can deposit your plasmids with Addgene. They will handle storage, distribution, and record-keeping.
