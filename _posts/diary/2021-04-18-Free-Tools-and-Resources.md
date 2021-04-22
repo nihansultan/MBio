@@ -11,7 +11,7 @@ categories: Useful-Links
 - You can order plasmids and viral preparations.
 - You can check the protocols in the field of molecular biology and learn from videos.
 
-[Go to Addgene](addgene.org)
+[Go to Addgene](http://www.addgene.org/)
 
 
 ### New England BioLabs (NEB): Tools for molecular biology experiments
@@ -22,11 +22,3 @@ NEB offers several helpful interactive tools for your research and protocols as 
 - [NEBcutter](http://nc2.neb.com/NEBcutter2/): This tool will take a DNA sequence and find the large, non-overlapping open reading frames using the *E.coli* genetic code and the sites for all Type II and commercially available Type III restriction enzymes that cut the sequence just once. 
 
 Go [here](https://international.neb.com/tools-and-resources/interactive-tools#Calculators), if you want to explore more tools.
-
-<script src="https://utteranc.es/client.js"
-        repo="MBio_"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
