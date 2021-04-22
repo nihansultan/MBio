@@ -23,4 +23,10 @@ NEB offers several helpful interactive tools for your research and protocols as 
 
 Go [here](https://international.neb.com/tools-and-resources/interactive-tools#Calculators), if you want to explore more tools.
 
-
+<script src="https://utteranc.es/client.js"
+        repo="MBio_"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
