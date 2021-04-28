@@ -3,17 +3,19 @@
     font-family: Consolas,'Microsoft YaHei', 'SimHei', sans-serif;
 }
 
-/**
- * Site header
- */
-/*.site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
+<!DOCTYPE html>
+<html>
+<body>
 
-    // Positioning context for the mobile navigation icon
-    position: relative;
-}*/
+<h1 style="background-color:DodgerBlue;">Hello World</h1>
+
+<p style="background-color:Tomato;">
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+</p>
+
+</body>
+</html>
 
 .site-title {
     font-size: 26px;
