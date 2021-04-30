@@ -33,7 +33,3 @@ markdown: kramdown
 # highlighter: rouge
 # highlighter: false
 
-html:
-  comments:
-    utterances:
-      repo: "github-org/github-repo"
