@@ -13,16 +13,16 @@ description: Open Educational Resource
 github_username: nihansultan
 permalink: /:year/:month/:day/:title/
 # this is the url root of the view source link on the footer page.
-viewsourceroot: https://github.com/LiXizhi/LiXizhi.github.io/blob/master/
+viewsourceroot: nihansultan.github.io/mbio_/
 # this is the url root of the create page link on the footer page.
-newsourceroot: https://github.com/LiXizhi/LiXizhi.github.io/new/master
+newsourceroot: nihansultan.github.io/mbio_/
 #########################################
 # for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
 #duoshuo_shortname: lixizhi
 #duoshuo_url: "http://lixizhi.github.io"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
-disqus_shortname: lixizhi
-disqus_url: "http://lixizhi.github.io"
+disqus_shortname: 
+disqus_url: 
 #########################################
 
 # Build settings
