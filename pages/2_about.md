@@ -4,10 +4,10 @@ title: About
 comments: true
 permalink: /about/
 ---
-![](https://user-images.githubusercontent.com/78427322/117457772-3e293880-af52-11eb-8943-5e2deda245ea.jpg)
-
 * content
 {:toc}
+
+![](https://user-images.githubusercontent.com/78427322/117457772-3e293880-af52-11eb-8943-5e2deda245ea.jpg)
 
 # MBio-Website
 An open-collaborative website in the field of molecular biology
