@@ -26,7 +26,7 @@ Use in the next reaction
 Probe Preparation
 1.	Prepare the following mix:
 
-| Syntax      | Description |
+| Reagents      | Amounts |
 | ----------- | ----------- |
 | 10X Transcription Buffer    | 2uL       |
 | RNAse Out   |   1uL     |
