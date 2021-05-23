@@ -3,8 +3,8 @@ layout: post
 comments: true
 categories: Discussion-Board
 ---
-![](![Uploading pexels-fauxels-3183127.jpg…]()
-)
+![](https://www.pexels.com/tr-tr/fotograf/dizustu-bilgisayarlarin-yakinindaki-insanlarin-fotografi-3183127/)
+
 
 ## Do you want to share your ideas? 
 
