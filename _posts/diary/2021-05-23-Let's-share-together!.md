@@ -3,7 +3,8 @@ layout: post
 comments: true
 categories: Discussion-Board
 ---
-![Uploading pexels-fauxels-3183127.jpg…]()
+![](![Uploading pexels-fauxels-3183127.jpg…]()
+)
 
 ## Do you want to share your ideas? 
 
