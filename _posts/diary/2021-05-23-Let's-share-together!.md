@@ -21,7 +21,7 @@ This website is an open platform for anyone who is willing to contribute. You ca
 - If you want to collaborate with me to write new posts,
 Please contact me *[contact me](mailto:mbiobiology@gmail.com)*. Every contribution will be very much appreciated in the field of molecular biology to improve this website.
 
-
+Get started by commenting below ! :speech_balloon:
 
 
 
