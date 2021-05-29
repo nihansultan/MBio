@@ -4,7 +4,7 @@ comments: true
 categories: Open-Lab-Protocols
 ---
 
-# RNA Isolation Protocol
+# RNA Isolation Protocol (by Ehab Lab)
 
 
 **Preparation:**
