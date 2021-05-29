@@ -4,7 +4,7 @@ comments: true
 categories: Open-Lab-Protocols
 ---
 
-# Making an RNA probe for in situ
+# Making an RNA probe for in situ (by Ehab Lab)
 
 Template preparation.
 
