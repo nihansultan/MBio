@@ -3,7 +3,7 @@ layout: post
 comments: true
 categories: Discussion-Board
 ---
-![](https://www.pexels.com/tr-tr/fotograf/ahsap-masanin-yakinindaki-insanlarin-ustten-gorunum-fotografi-3183150/)
+
 
 ## Do you want to share your ideas? 
 
