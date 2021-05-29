@@ -4,7 +4,7 @@ comments: true
 categories: Open-Lab-Protocols
 ---
 
-# DsRNA Preparation protocol
+# DsRNA Preparation protocol (by Ehab Lab)
 
 
 Prepare the following mix (don’t vortex but mix well)
